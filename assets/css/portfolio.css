@@ -1,0 +1,96 @@
+.RPG {
+    position: absolute;
+    display: inline-block;
+    margin-left: 300px;
+    height: 210px;
+    width: 280px;
+}
+
+.RPG-toolbar {
+    height: 40px;
+    width: 200px;
+    background-color: #4aaa;
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+    margin-bottom: 100px;
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.rutgers {
+    position: absolute;
+    display: inline-block;
+    margin-left: 300px;
+    height: 210px;
+    width: 280px;
+}
+
+.rutgers-toolbar {
+    height: 40px;
+    width: 200px;
+    background-color: #4aaa;
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+    margin-bottom: 100px;
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.hangman {
+    height: 210px;
+    width: 280px;
+}
+
+.hangman-toolbar{
+    height: 40px;
+    width: 200px;
+    background-color: #4aaa;
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+    margin-bottom: 100px;
+    display: inline-block;
+    margin-top: 100px;
+
+}
+
+.trivia {
+    height: 210px;
+    width: 280px;
+}
+
+.trivia-toolbar {
+    height: 40px;
+    width: 200px;
+    background-color: #4aaa;
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+    margin-bottom: 100px;
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.rock {
+    height: 210px;
+    width: 280px;
+}
+
+.rock-toolbar {
+    height: 40px;
+    width: 200px;
+    background-color: #4aaa;
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+    margin-bottom: 100px;
+    display: inline-block;
+    margin-top: 100px;
+}
+
+img {
+    position: absolute;
+    display: inline-block;
+   }
